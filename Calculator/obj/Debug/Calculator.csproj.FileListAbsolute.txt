@@ -1,0 +1,1 @@
+A:\ArtemAndEugene\Calculator\bin\Debug\Calculator.exe.config

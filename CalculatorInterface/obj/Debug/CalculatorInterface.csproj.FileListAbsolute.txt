@@ -1,0 +1,9 @@
+A:\ArtemAndEugene\CalculatorInterface\bin\Debug\CalculatorInterface.exe.config
+A:\ArtemAndEugene\CalculatorInterface\bin\Debug\CalculatorInterface.exe
+A:\ArtemAndEugene\CalculatorInterface\bin\Debug\CalculatorInterface.pdb
+A:\ArtemAndEugene\CalculatorInterface\obj\Debug\CalculatorInterface.csprojResolveAssemblyReference.cache
+A:\ArtemAndEugene\CalculatorInterface\obj\Debug\CalculatorInterface.Properties.Resources.resources
+A:\ArtemAndEugene\CalculatorInterface\obj\Debug\CalculatorInterface.csproj.GenerateResource.Cache
+A:\ArtemAndEugene\CalculatorInterface\obj\Debug\CalculatorInterface.exe
+A:\ArtemAndEugene\CalculatorInterface\obj\Debug\CalculatorInterface.pdb
+A:\ArtemAndEugene\CalculatorInterface\obj\Debug\CalculatorInterface.Form1.resources
